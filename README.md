@@ -35,15 +35,10 @@ Disclaimer: Some link may be redundant with other awesome list. I don't own anyt
 
 ## Advanced
 - [CRF use](http://www.chokkan.org/software/crfsuite/tutorial.html#id485365) - CRF official doc
-- [CRF explained](http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/) - blog   
-
+- [CRF explained](http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/) - Blog   
 - [Reinforcement](http://yclin.me/adversarial_attack_RL) - Blog
-
 - [HMM](http://www.cs.cmu.edu/~epxing/Class/10810-05/lecture3.pdf) - Course from CMU pdf
-- [HMM](http://users-cs.au.dk/cstorm/courses/PRiB_f12/slides/hidden-markov-models-1.pdf) - Course from CMU pdf
-
-
-
+- [HMM-Basic](http://users-cs.au.dk/cstorm/courses/PRiB_f12/slides/hidden-markov-models-1.pdf) - Course from Aahrus University pdf
 
 
 ## Deep Learning
@@ -52,6 +47,11 @@ Disclaimer: Some link may be redundant with other awesome list. I don't own anyt
 - [DL Fast AI](http://www.fast.ai/) - free course on DL
 - [DL Standford](http://web.stanford.edu/class/cs20si/index.html) - Course from Standford CS20si
 - [ How Deep Neural Networks Work](https://www.youtube.com/watch?utm_source=linkedin.com&v=ILsA4nyG7I0&utm_content=buffer901f6&utm_medium=social&feature=youtu.be&utm_campaign=buffer&app=desktop) - video from Brandon Rohrer 
+- [DL explained](http://colah.github.io/) - Colas blog
+- [DL Standford: CS231n](http://cs231n.github.io/) - Convolutional Neural Networks for Visual Recognition
+- [DL Standford: CS231n - CH3]http://cs231n.github.io/neural-networks-3/ ) -  Convolutional Neural Networks for Visual Recognition 
+
+
 
 ## Blog of ML
 - [RNN](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) - Blog on DL, NLP, RNN
