@@ -9,7 +9,8 @@ Disclaimer: Some link may be redundant with other awesome list. I don't own anyt
 - [ML](#ml)
 - [Library](#library)
   - [Viz](#viz)
-- [Advanced-Deep Learning](#advanced-deep-learning)
+- [Advanced](#advanced)
+- [Deep Learning](#deep-learning)
 - [Blog of ML](#blog-of-ml)
 
 
@@ -32,7 +33,20 @@ Disclaimer: Some link may be redundant with other awesome list. I don't own anyt
 - [Seaborn usage](https://gist.github.com/5agado/ee95008f25730d04bfd0eedd5c36f0ee) - example (check also seaborn gallery
 - [Seaborn gallery](http://seaborn.pydata.org/examples/) - Seaborn gallery 
 
-## Advanced-Deep Learning
+## Advanced
+- [CRF use](http://www.chokkan.org/software/crfsuite/tutorial.html#id485365) - CRF official doc
+- [CRF explained](http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/) - blog   
+
+- [Reinforcement](http://yclin.me/adversarial_attack_RL) - Blog
+
+- [HMM](http://www.cs.cmu.edu/~epxing/Class/10810-05/lecture3.pdf) - Course from CMU pdf
+- [HMM](http://users-cs.au.dk/cstorm/courses/PRiB_f12/slides/hidden-markov-models-1.pdf) - Course from CMU pdf
+
+
+
+
+
+## Deep Learning
 - [ML advanced tuto](https://github.com/eriklindernoren/ML-From-Scratch) - ML from Scratch github
 - [Tensorflow example](https://github.com/nlintz/TensorFlow-Tutorials) - Tensorflow example github
 - [DL Fast AI](http://www.fast.ai/) - free course on DL
