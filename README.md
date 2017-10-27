@@ -59,6 +59,9 @@ Disclaimer: Some links may be redundant with other awesome list. I don't own any
 - [DL explained](http://colah.github.io/) - Colas blog
 - [DL Standford: CS231n](http://cs231n.github.io/) - Convolutional Neural Networks for Visual Recognition
 - [DL Standford: CS231n - CH3](http://cs231n.github.io/neural-networks-3/ ) -  Convolutional Neural Networks for Visual Recognition 
+- [deeplearning4j](https://deeplearning4j.org/lstm.html ) -  Deep Learning for Java Blog
+
+
 
 
 
