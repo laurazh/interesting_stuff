@@ -22,7 +22,7 @@ Disclaimer: Some links may be redundant with other awesome list. I don't own any
 
 ## ML
 - [Dimension reduction example](https://www.kaggle.com/arthurtok/digit-recognizer/interactive-intro-to-dimensionality-reduction) - example of dimension reduction 
-- [ML General](http://www.xavierdupre.fr/) - Blog in French from ENSAE teachings
+- [ML General](http://www.xavierdupre.fr/) - Blog in French from ENSAE teachings => really good
 - coursera kaggle
 - imbalanced data
   -SMOTE
