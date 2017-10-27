@@ -2,7 +2,7 @@
 
 Goal: To keep track of interesting github, links or video for ML/DL.
 
-Disclaimer: Some link may be redundant with other awesome list. I don't own anything.
+Disclaimer: Some links may be redundant with other awesome list. I don't own anything.
 
 
 - [Python](#python) 
@@ -22,8 +22,7 @@ Disclaimer: Some link may be redundant with other awesome list. I don't own anyt
 ## ML
 - [Dimension reduction example](https://www.kaggle.com/arthurtok/digit-recognizer/interactive-intro-to-dimensionality-reduction) - example of dimension reduction
 - [Seaborn gallery](http://seaborn.pydata.org/examples/) - Seaborn gallery 
-
-
+- [Xavier dupre](http://www.xavierdupre.fr/) - Blog in French from ENSAE teachings
 
 ## Library
 
@@ -49,7 +48,7 @@ Disclaimer: Some link may be redundant with other awesome list. I don't own anyt
 - [ How Deep Neural Networks Work](https://www.youtube.com/watch?utm_source=linkedin.com&v=ILsA4nyG7I0&utm_content=buffer901f6&utm_medium=social&feature=youtu.be&utm_campaign=buffer&app=desktop) - video from Brandon Rohrer 
 - [DL explained](http://colah.github.io/) - Colas blog
 - [DL Standford: CS231n](http://cs231n.github.io/) - Convolutional Neural Networks for Visual Recognition
-- [DL Standford: CS231n - CH3]http://cs231n.github.io/neural-networks-3/ ) -  Convolutional Neural Networks for Visual Recognition 
+- [DL Standford: CS231n - CH3](http://cs231n.github.io/neural-networks-3/ ) -  Convolutional Neural Networks for Visual Recognition 
 
 
 
