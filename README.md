@@ -9,6 +9,7 @@ Disclaimer: Some links may be redundant with other awesome list. I don't own any
 - [ML](#ml)
 - [Library](#library)
   - [Viz](#viz)
+  - [Useful lib](#useful-lib)
 - [Advanced](#advanced)
 - [Deep Learning](#deep-learning)
 - [Blog of ML](#blog-of-ml)
@@ -16,7 +17,6 @@ Disclaimer: Some links may be redundant with other awesome list. I don't own any
 
 ## Python
 - [python basics](http://perso.telecom-paristech.fr/~gramfort/liesse_python/) - Basics of python for Data Science (web page)
-- [Scikit-learn](http://scikit-learn.org/stable/index.html) - Library of ML with therical explanation
 - [Python Data Science Book](http://www.datasciencecentral.com/profiles/blogs/book-python-data-science-handbook?utm_content=bufferd1115&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer) - Jupyter notebook content from the Python Data Science Handbook.
 
 ## ML
@@ -30,6 +30,12 @@ Disclaimer: Some links may be redundant with other awesome list. I don't own any
 - [Matplotlib gallery](https://matplotlib.org/gallery.html) - matpllotlib gallery 
 - [Seaborn usage](https://gist.github.com/5agado/ee95008f25730d04bfd0eedd5c36f0ee) - example (check also seaborn gallery
 - [Seaborn gallery](http://seaborn.pydata.org/examples/) - Seaborn gallery 
+
+### Useful lib
+- [Scikit-learn](http://scikit-learn.org/stable/index.html) - Library of ML with therical explanation
+- [Catboost](https://tech.yandex.com/) - Catboost from Yandex
+- stat.model
+
 
 ## Advanced
 - [CRF use](http://www.chokkan.org/software/crfsuite/tutorial.html#id485365) - CRF official doc
