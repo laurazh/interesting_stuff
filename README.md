@@ -13,6 +13,7 @@ Disclaimer: Some links may be redundant with other awesome list. I don't own any
 - [Advanced](#advanced)
 - [Deep Learning](#deep-learning)
 - [Blog of ML](#blog-of-ml)
+- [Competition](#Competition)
 
 
 ## Python
@@ -62,4 +63,8 @@ Disclaimer: Some links may be redundant with other awesome list. I don't own any
 
 ## Blog of ML
 - [RNN](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) - Blog on DL, NLP, RNN
+
+
+## Competition
+
 
