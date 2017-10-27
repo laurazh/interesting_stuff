@@ -26,6 +26,7 @@ Disclaimer: Some links may be redundant with other awesome list. I don't own any
 - coursera kaggle
 - imbalanced data
   -SMOTE
+- Autoencodeur
 
 ## Library
 
