@@ -28,6 +28,7 @@ Disclaimer: Some links may be redundant with other awesome list. I don't own any
   -SMOTE
 - Autoencodeur
 - [Tuto](http://bugra.github.io/work/notes/2014-11-22/an-introduction-to-supervised-learning-scikit-learn/) -  Blog tuto
+- [Tree model explained](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.710.9982&rep=rep1&type=pdf) - Tree model
 
 ## Library
 
