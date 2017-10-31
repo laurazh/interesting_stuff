@@ -74,4 +74,8 @@ Disclaimer: Some links may be redundant with other awesome list. I don't own any
 
 ## Competition
 
+## News
+- [News on IA](https://www.datarobot.com/blog/) - Blog, news
+
+
 
