@@ -27,6 +27,7 @@ Disclaimer: Some links may be redundant with other awesome list. I don't own any
 - imbalanced data
   -SMOTE
 - Autoencodeur
+- [Tuto](http://bugra.github.io/work/notes/2014-11-22/an-introduction-to-supervised-learning-scikit-learn/) -  Blog tuto
 
 ## Library
 
