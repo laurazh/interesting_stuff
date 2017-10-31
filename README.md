@@ -79,6 +79,9 @@ Disclaimer: Some links may be redundant with other awesome list. I don't own any
 
 ## News
 - [News on IA](https://www.datarobot.com/blog/) - Blog, news
+- [Datarobot](https://www.datarobot.com/blog/machine-learning-in-insurance-do-actuarial-models-trust-the-data-too-much/) - Blog, news datarobot
+
+
 
 
 
