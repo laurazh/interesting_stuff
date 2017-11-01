@@ -31,7 +31,7 @@ Disclaimer: Some links may be redundant with other awesome list. I don't own any
 - [Tree model explained](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.710.9982&rep=rep1&type=pdf) - Tree model
 - [Likelihood encoding](https://www.kaggle.com/tnarik/likelihood-encoding-of-categorical-features) - Likelihood encoding of categorical features
 - [MIT unsupervised](http://www.mit.edu/~9.54/fall14/slides/Class13.pdf) - unsupervised
-
+- [word2vec](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) - word2vec  blog
 
 ## Library
 
