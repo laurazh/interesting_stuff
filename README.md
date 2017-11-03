@@ -32,6 +32,7 @@ Disclaimer: Some links may be redundant with other awesome list. I don't own any
 - [Likelihood encoding](https://www.kaggle.com/tnarik/likelihood-encoding-of-categorical-features) - Likelihood encoding of categorical features
 - [MIT unsupervised](http://www.mit.edu/~9.54/fall14/slides/Class13.pdf) - unsupervised
 - [word2vec](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) - word2vec  blog
+- [anomaly detection](https://www.datascience.com/blog/python-anomaly-detection) - anomaly blog
 
 ## Library
 
@@ -46,14 +47,12 @@ Disclaimer: Some links may be redundant with other awesome list. I don't own any
 - [Catboost](https://tech.yandex.com/) - Catboost from Yandex
 - stat.model
 
-
 ## Advanced
 - [CRF use](http://www.chokkan.org/software/crfsuite/tutorial.html#id485365) - CRF official doc
 - [CRF explained](http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/) - Blog   
 - [Reinforcement](http://yclin.me/adversarial_attack_RL) - Blog
 - [HMM](http://www.cs.cmu.edu/~epxing/Class/10810-05/lecture3.pdf) - Course from CMU pdf
 - [HMM-Basic](http://users-cs.au.dk/cstorm/courses/PRiB_f12/slides/hidden-markov-models-1.pdf) - Course from Aahrus University pdf
-
 
 ## Deep Learning
 - [ML advanced tuto](https://github.com/eriklindernoren/ML-From-Scratch) - ML from Scratch github
@@ -67,11 +66,7 @@ Disclaimer: Some links may be redundant with other awesome list. I don't own any
 - [deeplearning4j](https://deeplearning4j.org/lstm.html ) -  Deep Learning for Java Blog
 - [RNN LSTM](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/) -  Blog github.io
 - [UDFL](http://ufldl.stanford.edu/tutorial/) - UDFL standford tutorial
-
-
-
-
-
+ 
 ## Blog of ML
 - [RNN](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) - Blog on DL, NLP, RNN
 
