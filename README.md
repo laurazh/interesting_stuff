@@ -66,6 +66,7 @@ Disclaimer: Some links may be redundant with other awesome list. I don't own any
 - [deeplearning4j](https://deeplearning4j.org/lstm.html ) -  Deep Learning for Java Blog
 - [RNN LSTM](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/) -  Blog github.io
 - [UDFL](http://ufldl.stanford.edu/tutorial/) - UDFL standford tutorial
+- [Kaldi](http://kaldi-asr.org/doc/dnn.html) - kaldi speach recognition DL
  
 ## Blog of ML
 - [RNN](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) - Blog on DL, NLP, RNN
