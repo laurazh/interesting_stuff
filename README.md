@@ -1,6 +1,7 @@
 # Table-Of-Contents (TOC)
 
 Goal: To keep track of interesting github, links or video for ML/DL.
+[link to a more complete list on google sheet ](https://docs.google.com/spreadsheets/d/1Vl70cfLmGcSqSub1jKU92fSQHNo0wJGx_6i8TwilhL8/edit?usp=sharing)
 
 Disclaimer: Some links may be redundant with other awesome list. I don't own anything.
 
