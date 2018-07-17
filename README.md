@@ -22,8 +22,9 @@ Disclaimer: Some links may be redundant with other awesome list. I don't own any
 - [Python Data Science Book](http://www.datasciencecentral.com/profiles/blogs/book-python-data-science-handbook?utm_content=bufferd1115&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer) - Jupyter notebook content from the Python Data Science Handbook.
 
 ## ML
-- [Dimension reduction example](https://www.kaggle.com/arthurtok/digit-recognizer/interactive-intro-to-dimensionality-reduction) - example of dimension reduction 
 - [ML General](http://www.xavierdupre.fr/) - Blog in French from ENSAE teachings => really good
+- [ML general](https://bloomberg.github.io/foml/#resources) => good notion to know before any interview
+- [Dimension reduction example](https://www.kaggle.com/arthurtok/digit-recognizer/interactive-intro-to-dimensionality-reduction) - example of dimension reduction 
 - coursera kaggle
 - imbalanced data
   -SMOTE
