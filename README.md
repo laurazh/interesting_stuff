@@ -26,8 +26,10 @@ Disclaimer: Some links may be redundant with other awesome list. I don't own any
 - [ML general](https://bloomberg.github.io/foml/#resources) => good notion to know before any interview
 - [Dimension reduction example](https://www.kaggle.com/arthurtok/digit-recognizer/interactive-intro-to-dimensionality-reduction) - example of dimension reduction 
 - coursera kaggle
+- [sklearn contrib](https://github.com/scikit-learn-contrib)
 - imbalanced data
   -SMOTE
+  - [sklearn contrib imablanced](http://contrib.scikit-learn.org/imbalanced-learn/stable/#)
 - Autoencodeur
 - [Tuto](http://bugra.github.io/work/notes/2014-11-22/an-introduction-to-supervised-learning-scikit-learn/) -  Blog tuto
 - [Tree model explained](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.710.9982&rep=rep1&type=pdf) - Tree model
