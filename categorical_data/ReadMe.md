@@ -37,6 +37,7 @@ http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.Feat
 - the downside of this method is that once you transform your data, you will not be able to go back to the original one. There is no dictionary between the original/hashed data.
 - the hashing method used is Murmurhash3
 
+Another great libary for encoding is scikit-learn contrib, there is a special library for [categorical data](https://github.com/scikit-learn-contrib/categorical-encoding)
 
 ## Entity embedding
 - Entity embedding is a new method that is more and more used in competition.
