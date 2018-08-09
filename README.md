@@ -37,6 +37,8 @@ Disclaimer: Some links may be redundant with other awesome list. I don't own any
 - [MIT unsupervised](http://www.mit.edu/~9.54/fall14/slides/Class13.pdf) - unsupervised
 - [word2vec](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) - word2vec  blog
 - [anomaly detection](https://www.datascience.com/blog/python-anomaly-detection) - anomaly blog
+- [entity encoding](https://medium.com/@satnalikamayank12/on-learning-embeddings-for-categorical-data-using-keras-165ff2773fc9) - well explained
+
 
 ## Library
 
