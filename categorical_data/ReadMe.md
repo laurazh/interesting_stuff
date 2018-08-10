@@ -1,5 +1,7 @@
 # Way to handle categorical data
 
+https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-42fd0a43b009
+
 ## Transform with count
 - A simple transformation for a categorical data is to use its frequency as a feature
 
