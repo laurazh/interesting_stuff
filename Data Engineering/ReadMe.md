@@ -29,8 +29,11 @@ We will see each element of the schema
 
 # What you need to be familiar with
 
-- Docker vs kubernetes  
+- Docker
 
+- kubernetes  
+
+- Indexer ( elastic search => ELK )
 
 ![alt text](https://github.com/laurazh/interesting_stuff/blob/master/Data%20Engineering/Image/container_vs_vm.png)
 
