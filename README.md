@@ -1,4 +1,12 @@
 # Table-Of-Contents (TOC)
+------------------------
+TODO
+
+- [ ] Put my link to markdown
+- [ ] Do some notebook as required 
+- [ ] Put for each link a notebook as an example
+
+------------------------
 
 Goal: To keep track of interesting github, links or video for ML/DL.
 [link to a more complete list on google sheet ](https://docs.google.com/spreadsheets/d/1Vl70cfLmGcSqSub1jKU92fSQHNo0wJGx_6i8TwilhL8/edit?usp=sharing)
