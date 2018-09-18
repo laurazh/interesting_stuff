@@ -29,7 +29,7 @@ We will see each element of the schema
 
 # What you need to be familiar with
 
-- Docker
+-  [Docker](https://github.com/laurazh/interesting_stuff/tree/master/Data%20Engineering/Docker)
 
 - kubernetes  
 
