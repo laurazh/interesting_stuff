@@ -49,7 +49,7 @@ Another great libary for encoding is scikit-learn contrib, there is a special li
 - [example of implementation in kaggle](https://www.kaggle.com/aquatic/entity-embedding-neural-net)
 - explanation detail _ https://medium.com/@satnalikamayank12/on-learning-embeddings-for-categorical-data-using-keras-165ff2773fc9
 
-example of code 
+example of code n°1
 
     model = Sequential()
     no_of_unique_cat  = df_train[categorical_var].nunique()
@@ -59,3 +59,23 @@ example of code
     model.add( Embedding(vocab ,embedding_size, input_length = 1 ))
     model.add(Reshape(target_shape=(embedding_size,)))
     models.append( model )
+    
+example of code n°2
+
+    input_ps_car_11_cat = Input(shape=(1,))
+    embedding = Embedding(104, 10, input_length=1)(input_ps_car_11_cat)
+    embedding = Reshape(target_shape=(10,))(embedding)
+    inputs.append(input_ps_car_11_cat)
+    embeddings.append(embedding)
+    
+for each category/entity
+- create an input of shape 1
+- create an embedding layer
+- reshape to embedding_size
+
+
+here: 
+- vocab=input_dim             => the unique count of the category
+- embeding_size= output_dim   => user should define this value 
+    - best practice : embedding_size = min(np.ceil((no_of_unique_cat)/2), 50 )
+
