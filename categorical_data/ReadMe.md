@@ -49,6 +49,8 @@ Another great libary for encoding is scikit-learn contrib, there is a special li
 - [example of implementation in kaggle](https://www.kaggle.com/aquatic/entity-embedding-neural-net)
 - explanation detail _ https://medium.com/@satnalikamayank12/on-learning-embeddings-for-categorical-data-using-keras-165ff2773fc9
 
+
+--------------------------------
 example of code n°1
 
     model = Sequential()
@@ -79,7 +81,8 @@ here:
 - embeding_size= output_dim   => user should define this value 
     - best practice : embedding_size = min(np.ceil((no_of_unique_cat)/2), 50 )
 
-example of code:
+--------------------------------
+example of code  n°1:
 
     model_rest = Sequential()
     model_rest.add(Dense(16, input_dim= 1 ))
