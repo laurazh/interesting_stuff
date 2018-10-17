@@ -50,7 +50,8 @@ Another great libary for encoding is scikit-learn contrib, there is a special li
 - explanation detail _ https://medium.com/@satnalikamayank12/on-learning-embeddings-for-categorical-data-using-keras-165ff2773fc9
 
 example of code 
->    model = Sequential()
+
+    model = Sequential()
     no_of_unique_cat  = df_train[categorical_var].nunique()
     embedding_size = min(np.ceil((no_of_unique_cat)/2), 50 )
     embedding_size = int(embedding_size)
