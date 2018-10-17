@@ -79,3 +79,16 @@ here:
 - embeding_size= output_dim   => user should define this value 
     - best practice : embedding_size = min(np.ceil((no_of_unique_cat)/2), 50 )
 
+example of code:
+
+    model_rest = Sequential()
+    model_rest.add(Dense(16, input_dim= 1 ))
+    models.append(model_rest)
+
+for the rest of the column/not entiy
+- create an input shape (number of columns)
+- dense(units) the input => just activation layer
+- reshape
+
+At the end 
+concatenate the embeddings
