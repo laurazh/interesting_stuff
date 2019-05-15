@@ -5,6 +5,20 @@ TODO
 - [ ] Put my link to markdown
 - [ ] Do some notebook as required 
 - [ ] Put for each link a notebook as an example
+  
+Tool I want to use/or know how to use
+
+- [ ] Apache Beam
+- [ ] DKubernetes
+- [ ] Jenkins
+- [ ] Airflow
+- [ ] Zookeeper
+- [ ] Flume
+- [ ] Flink
+- [ ] AWS solution
+- [ ] GCP solution
+- [ ] puppeteer
+- [ ] Docker 
 
 ------------------------
 
