@@ -19,9 +19,9 @@ We will see each element of the schema
 
 - spark
 
-- flink
+- Flink
 
-- kafka
+-  [Kafka - ELK](https://github.com/laurazh/interesting_stuff/tree/master/Data%20Engineering/Kafka)
 
 - Flume
 
@@ -44,7 +44,6 @@ We will see each element of the schema
 ------------------------------------------------
 TODO
 
-- [ ] Put general picture of architecture
 - [ ] Flashcard of each element
 - [ ] streaming (real time) vs batch 
 - [ ] monitoring tools
